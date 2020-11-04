@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_65wQ28fr9bu_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How I Became a Cyclist</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_I_Became_a_Cyclist_ORG">
+    <organization identifier="How_I_Became_a_Cyclist_ORG">
+      <title>How I Became a Cyclist</title>
+      <item identifier="How_I_Became_a_Cyclist_SCO" isvisible="true" identifierref="__65wQ28fr9bu_course_id_RES">
+        <title>How I Became a Cyclist</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__65wQ28fr9bu_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/69GyXzDNBw3_80_DX1440_DY1440_CX1511_CY917.png" />
+      <file href="mobile/5yQCAYtd0x4_FFFFFF_80_P_140_796_864_549_DX638_DY638_CX283_CY180.png" />
+      <file href="mobile/5yQCAYtd0x4_FFFFFF_80_P_189_180_788_549_DX638_DY638_CX258_CY180.png" />
+      <file href="mobile/5yQCAYtd0x4_FFFFFF_80_P_1040_806_864_549_DX638_DY638_CX283_CY180.png" />
+      <file href="mobile/5yQCAYtd0x4_FFFFFF_80_P_1113_175_743_549_DX638_DY638_CX243_CY180.png" />
+      <file href="mobile/6nZEXcOR1sx_80_P_0_35_1609_905_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5yCPfVqv0Hs_80_DX96_DY96_CX83_CY100.png" />
+      <file href="mobile/6eIRCae4j1k_80_DX96_DY96_CX83_CY99.png" />
+      <file href="mobile/6ht7MlfRSng_80_DX96_DY96_CX83_CY100.png" />
+      <file href="mobile/6lJsktsxw4z_80_DX270_DY270_CX283_CY281.png" />
+      <file href="mobile/5dc6LDbfjGy_80_DX270_DY270_CX283_CY281.png" />
+      <file href="mobile/6WL4fy7o8Dx_80_DX272_DY272_CX283_CY285.png" />
+      <file href="mobile/5jPAI1TZwKR_80_DX272_DY272_CX283_CY285.png" />
+      <file href="mobile/6RsXDu8aD4F_FFFFFF_80_P_374_366_1332_1290_DX250_DY250_CX170_CY165.png" />
+      <file href="story_content/5VUN2lJWkYz.html" />
+      <file href="mobile/5VUN2lJWkYz6FnTtEgw2m7{Width=720, Height=405}Light_80_DX1440_DY1440_CX720_CY405.jpg" />
+      <file href="mobile/67M7BxMkInM_80_RBAD5CD_P_85_0_1876_1054_DX1570_DY1570_CX1511_CY849.png" />
+      <file href="mobile/6elu5D1Tnap_80_DX1196_DY1196_CX1254_CY849.png" />
+      <file href="mobile/5rv6EzgKauk_80_DX476_DY476_CX222_CY138.png" />
+      <file href="mobile/5rv6EzgKauk_80_RBAD5CD_DX476_DY476_CX222_CY138.png" />
+      <file href="mobile/6adqa0UHZzk_80_DX360_DY360_CX98_CY188.png" />
+      <file href="mobile/6adqa0UHZzk_80_RBAD5CD_DX360_DY360_CX98_CY188.png" />
+      <file href="mobile/6Zdz1z9AiHm_80_DX148_DY148_CX96_CY154.png" />
+      <file href="mobile/6Zdz1z9AiHm_80_RBAD5CD_DX148_DY148_CX96_CY154.png" />
+      <file href="mobile/62gTWh0qLR0_80_DX216_DY216_CX130_CY109.png" />
+      <file href="mobile/62gTWh0qLR0_80_RBAD5CD_DX216_DY216_CX130_CY109.png" />
+      <file href="mobile/6eYbjP65cVx_80_DX128_DY128_CX60_CY134.png" />
+      <file href="mobile/6eYbjP65cVx_80_RBAD5CD_DX128_DY128_CX60_CY134.png" />
+      <file href="mobile/5nr802TtFkJ_80_DX158_DY158_CX104_CY165.png" />
+      <file href="mobile/5nr802TtFkJ_80_RBAD5CD_DX158_DY158_CX104_CY165.png" />
+      <file href="mobile/5rv6EzgKauk_80_DX478_DY478_CX499_CY310.png" />
+      <file href="mobile/6adqa0UHZzk_80_DX360_DY360_CX180_CY346.png" />
+      <file href="mobile/6fAA5NzxUtG_80_DX294_DY294_CX151_CY242.png" />
+      <file href="mobile/62gTWh0qLR0_80_DX218_DY218_CX179_CY150.png" />
+      <file href="mobile/5Yi6EwRQx1l_80_DX236_DY236_CX87_CY194.png" />
+      <file href="mobile/62v74XwvT6m_80_DX294_DY294_CX152_CY242.png" />
+      <file href="mobile/6AVaMlgAiO6_80_DX1450_DY1450_CX1521_CY923.png" />
+      <file href="mobile/630Fs5kuW2N_80_DX176_DY176_CX139_CY87.png" />
+      <file href="mobile/5iWuiV1PrYU_80_DX1102_DY1102_CX867_CY27.png" />
+      <file href="mobile/5np1KI33KAh_80_B40_DX54_DY54_CX56_CY56.png" />
+      <file href="mobile/6MxcJuKbUo6_80_DX418_DY418_CX438_CY272.png" />
+      <file href="mobile/6LJJ1M6pxwj_80_DX368_DY368_CX180_CY346.png" />
+      <file href="mobile/5cB0FeiuQWp_80_DX294_DY294_CX151_CY242.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6RTx2QlfZgU.png" />
+      <file href="mobile/Shape5wH4CHobppo.png" />
+      <file href="mobile/Shape6izv9VdjwHL.png" />
+      <file href="mobile/Shape5ahEerfLOa1.png" />
+      <file href="mobile/Shape6jgTJucHzto.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fXbakZvPf6.js" />
+      <file href="html5/data/js/5jaAsA34kF4.js" />
+      <file href="html5/data/js/5jKaLr5Z3kG.js" />
+      <file href="html5/data/js/61bXDKFLsiF.js" />
+      <file href="html5/data/js/6BTwRH38qjN.js" />
+      <file href="html5/data/js/6bV3AIkFRGI.js" />
+      <file href="html5/data/js/6dZMGlQbhrn.js" />
+      <file href="html5/data/js/6FP6MZ15TWV.js" />
+      <file href="html5/data/js/6hJrPEeOJEh.js" />
+      <file href="html5/data/js/6JHHjA4kx8b.js" />
+      <file href="html5/data/js/6kqXJpjFQFS.js" />
+      <file href="html5/data/js/6PfcaUyv6Nh.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
